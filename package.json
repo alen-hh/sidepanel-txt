@@ -38,9 +38,6 @@
     "permissions": [
       "sidePanel",
       "storage"
-    ],
-    "host_permissions": [
-      "https://*/*"
     ]
   }
 }
